@@ -67,12 +67,6 @@ contentDir = "content/de"
 # Weight used for sorting.
 weight = 1
 
-[languages.en]
-title = "ICMa ++"
-description = "A Docsy example site"
-languageName ="English"
-# Weight used for sorting.
-weight = 2
 
 [markup]
   [markup.goldmark]
