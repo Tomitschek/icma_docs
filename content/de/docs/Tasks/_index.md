@@ -1,11 +1,11 @@
 
 ---
-title: "Core Tasks"
-linkTitle: "Core Tasks"
+title: "Kern Prozesse"
+linkTitle: "Kern Prozesse"
 weight: 6
 date: 2017-01-05
 description: >
-  What can your user do with your project?
+  Welche Usecases werden mit ICMa abgebildet?
 ---
 
 {{% pageinfo %}}

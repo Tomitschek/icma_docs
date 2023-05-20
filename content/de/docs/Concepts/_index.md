@@ -1,17 +1,43 @@
 ---
-title: "Concepts"
-linkTitle: "Concepts"
+title: "Konzepte"
+linkTitle: "Konzepte"
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  Was muss der Benutzer über die Basiskonzepte Wissen ? 
 ---
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
+# ICM
+## Mehrbenutzer System
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+ICM ist ein Mehrbenutzersystem. Das bedeutet, das mehrere Benutzer an der Dokumentation eines Patienten zur gleichen Zeit mitwirken können.
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+## Mandanten
+In ICM gibt es mehrere Mandanten, die im ursprünglichen Kontext einer Station entsprechen. Deshalb gibt es schon seit über 20 Jahren für jede der Intensivstationen einen Mandanten. 
+Durch die Einführungvon ICM in der Anästhesie gibt es zusätzlich noch den Prämedikations- und den Anästhesie-Mandanten.
+
+{{< alert >}}Ein Patient kann zueinem bestimmten Zeitpunkt immer nur in einem Mnadanten aufgenommen sein{{< /alert >}}
+
+Eine Ausnahme ist die Anästhesie während eines ITS-Aufenthalts: ist ein Patient, der operiert werden soll, bereits auf einer der Intensivstationen aufgenommen, wird dieser nur temporär in den OP verlergt. Er ist also praktisch während der OP in beiden Mandanten.
+
+# Integrationin die bestehende Krankenhaus IT
+
+## Empfangen von Daten aus anderen Systemen
+ICM kann folgende Daten aus der Klinik IT empfangen:
+* Aufnahme Daten aus ORBIS
+* Labor, dass während der jeweiligen Aufnahme in ICM abgenommen wurde
+* Monitoring Daten aus dem Philips-Monitoring während der Liegedauer in einem ICM Bett mit Monitoring (Sonderfälle: Backfilling)
+
+ICM kann folgende Daten **nicht** empfangen:
+* OP-Anmeldung aus ORBIS
+* Medikation aus ORBIS
+* Befunde aus ORBIS
+* Aufklärung aus Thieme-Aufklärungs-System (IPads)
+
+# Senden von Daten an andere Systeme
+
+ICM sendet alle Daten (Berichte/Kurven) als PDF nach ORBIS 
 
 
