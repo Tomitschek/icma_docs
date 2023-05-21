@@ -21,7 +21,7 @@ description: >
  __bis auf Weiteres **ANDOK**:__
 * Notsectio
 * Schockraum
-* Außenbereiche (CT, MRT, Diagnostik, EVT, NRAD, EKT, BSK usw.)This is an alert.
+* Außenbereiche (CT, MRT, Diagnostik, EVT, NRAD, EKT, BSK usw.)
 {{< /alert >}}
 
 {{< alert title="Hinweis" color="success">}}
