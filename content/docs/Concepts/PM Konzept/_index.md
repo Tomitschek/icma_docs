@@ -2,9 +2,13 @@
 title: "Prämedikations Konzept"
 date: 2017-01-05
 weight: 10
+
 description: >
   Prinzipielles Konzept der Prämedikation.
 ---
+
+
+
 
 * Technisch keine Verbindung zu ORBIS (Stand 5/2023) 
 * Zuordnung über OP-Diagnose/OP-Beschreibung/OP-Datum 
@@ -15,15 +19,16 @@ description: >
 # Aufnahme 
 
 Am besten über Fallnummer (64xxxxxxxx) 
+
 ## Stammdaten-Dialog 
-Körpergröße 
-Gewicht 
-OP-Diagnose 
-Ggf. hier schon Allergien 
-PM-Ordner 
-OP-Zuordnung 
-Datum 
-OP-Beschreibung 
+* Körpergröße 
+* Gewicht 
+* OP-Diagnose 
+* Ggf. hier schon Allergien 
+* PM-Ordner 
+* OP-Zuordnung 
+* Datum 
+* OP-Beschreibung 
 
 ## Reiter 
 
@@ -54,7 +59,7 @@ Items
 
 Warum? 
 * Anamnese, Sprachbarriere, Betreuung: Logistik 
-* Versorgungssituation, Mobilität: Verbesserung der Vorhersagequalität von ASA ​[1], [2]​ 
+* Versorgungssituation, Mobilität: Verbesserung der Vorhersagequalität von ASA {{< cite "Visnjevac2015" >}},  {{< cite "Kivrak2021" >}}
 
 ### Infektiologie 
 
@@ -82,7 +87,7 @@ Items
 * AB-Prophylaxe 
 * Blutverlust 
 * OP-Risiko 
-    * Wichtig u. a. für Evaluation ​[3] 
+    * Wichtig u. a. für Evaluation {{< cite "Zwissler2017" >}} 
 
 * Besonderheiten/Procedere 
 * Von Chir. gewünschter PostOP Schmerzdienst 
@@ -122,16 +127,8 @@ Körperliche Untersuchung: nur ausfüllen, was tatsächlich untersucht wurde.
 Was nicht dokumentiert wurde gilt als nicht durchgeführt; auch bei Normalbefunden 
 {{< /alert >}}
 
- 
 
- 
 
-Literatur 
+## References
 
-​​[1]	O. Visnjevac u. a., „The effect of adding functional classification to ASA status for predicting 30-day mortality“, Anesth Analg, Bd. 121, Nr. 1, S. 110–116, 2015, doi: 10.1213/ANE.0000000000000740. 
-
-​[2]	„NSQUIP Surgical Risc Calculator“. http://riskcalculator.facs.org/PatientInfo/PatientInfo 
-
-​[3]	B. Zwissler, „Präoperative evaluation erwachsener patienten vor elektiven, nicht herz-Thoraxchirurgischen eingriffen“, Anasthesiologie und Intensivmedizin, Bd. 58, Nr. 6, S. 349–364, Juni 2017, doi: 10.19224/ai2017.349. 
-
-​ ​ 
+{{< references >}}

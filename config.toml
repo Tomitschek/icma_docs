@@ -1,8 +1,9 @@
 baseURL = "/"
 title = "[ICMa++]"
+theme = ["hugo-simplecite"]
 
 # Language settings
-contentDir = "content/de"
+contentDir = "content"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
@@ -63,7 +64,7 @@ anchor = "smart"
 title = "[ICMa++]"
 description = "Dokumentation [ICMa++] Projekt"
 languageName ="Deutsch"
-contentDir = "content/de"
+contentDir = "content"
 # Weight used for sorting.
 weight = 1
 

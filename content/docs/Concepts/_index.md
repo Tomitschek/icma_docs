@@ -2,13 +2,19 @@
 title: "Konzepte"
 linkTitle: "Konzepte"
 weight: 4
+bibFile: content/de/docs/Concepts/bib.json # path relative to project root
 description: >
   Was muss der Benutzer über die Basiskonzepte Wissen ? 
 ---
+{{ $simpleciteStyle := resources.Get "scss/hugo-simplecite.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" type="text/css" href="{{ $simpleciteStyle.Permalink }}">
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
+
+
+
 # ICM
 ## Mehrbenutzer System
 
@@ -41,3 +47,14 @@ ICM kann folgende Daten **nicht** empfangen:
 ICM sendet alle Daten (Berichte/Kurven) als PDF nach ORBIS 
 
 
+# Literatur
+## Information Theory and AI
+
+The concepts of both information theory {{< cite "Shannon1948" >}} and
+artificial intelligence {{< cite "Turing1950" >}} were formally introduced in
+the middle of the twentieth century. {{< cite "Shannon1948" >}} is considered
+to be Shannon's most influential work.
+
+## References
+
+{{< references >}}
