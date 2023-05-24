@@ -9,16 +9,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+    strategy:
+      matrix:
+        node: [ 14, 16, 18 ]
     steps:
     
     - uses: actions/checkout@v3.5.2
-      name: Run linting rules and tests
-        uses: actions/setup-node@v3
-        with:
+    - name: install NPM postcss-cli
+      uses: actions/setup-node@v2.5.2
+      with:
           node-version: ${{ matrix.node }}
-          - run: npm install postcss-cli
-     
+    - run: npm install postcss-cli 
     
     # Set up HUGO environment
     - name: Hugo setup
