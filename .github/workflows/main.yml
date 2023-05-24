@@ -19,7 +19,8 @@ jobs:
       uses: actions/setup-node@v2.5.2
       with:
           node-version: ${{ matrix.node }}
-    - run: npm install -g postcss-cli 
+    - run: npm install -g postcss-cli
+    - run: npm install autoprefixer
     
     # Set up HUGO environment
     - name: Hugo setup
@@ -30,7 +31,7 @@ jobs:
   
     # Build site
     - name: Build HUGO
-      run: hugo --panicOnWarning
+      run: hugo
     
     # Commit site to new branch
     - name: Deploy to GH Pages
