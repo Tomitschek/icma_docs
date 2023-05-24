@@ -13,6 +13,12 @@ jobs:
     steps:
     
     - uses: actions/checkout@v3.5.2
+      name: Run linting rules and tests
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node }}
+          - run: npm install postcss-cli
+     
     
     # Set up HUGO environment
     - name: Hugo setup
@@ -20,7 +26,7 @@ jobs:
       with:
         hugo-version: '0.112.0'
         extended: true
-        run: npm install postcss-cli
+  
     # Build site
     - name: Build HUGO
       run: hugo
