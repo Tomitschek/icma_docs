@@ -59,8 +59,7 @@ Items
 
 Warum? 
 * Anamnese, Sprachbarriere, Betreuung: Logistik 
-* Versorgungssituation, Mobilität: Verbesserung der Vorhersagequalität von ASA {{< cite "Visnjevac2015" >}},  {{< cite "Kivrak2021" >}}
-
+* Versorgungssituation, Mobilität: Verbesserung der Vorhersagequalität von ASA 
 ### Infektiologie 
 
 Items 
@@ -130,5 +129,3 @@ Was nicht dokumentiert wurde gilt als nicht durchgeführt; auch bei Normalbefund
 
 
 ## References
-
-{{< references >}}
