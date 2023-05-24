@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node: [ 14, 16, 18 ]
+        node: [ 18 ]
     steps:
     
     - uses: actions/checkout@v3.5.2
@@ -19,7 +19,7 @@ jobs:
       uses: actions/setup-node@v2.5.2
       with:
           node-version: ${{ matrix.node }}
-    - run: npm install postcss-cli 
+    - run: npm install -g postcss-cli 
     
     # Set up HUGO environment
     - name: Hugo setup
