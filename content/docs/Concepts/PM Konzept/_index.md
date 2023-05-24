@@ -86,7 +86,7 @@ Items
 * AB-Prophylaxe 
 * Blutverlust 
 * OP-Risiko 
-    * Wichtig u. a. für Evaluation {{< cite "Zwissler2017" >}} 
+    * Wichtig u. a. für Evaluation 
 
 * Besonderheiten/Procedere 
 * Von Chir. gewünschter PostOP Schmerzdienst 
