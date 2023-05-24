@@ -30,7 +30,7 @@ jobs:
   
     # Build site
     - name: Build HUGO
-      run: hugo
+      run: hugo --panicOnWarning
     
     # Commit site to new branch
     - name: Deploy to GH Pages
