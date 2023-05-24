@@ -1,0 +1,115 @@
+[
+  {
+    "DOI": "10.1213/ANE.0000000000000740",
+    "ISBN": "0000000000000",
+    "ISSN": "15267598",
+    "PMID": "26086512",
+    "abstract": "BACKGROUND: The functional capacity to perform the activities of daily living is identified as an independent predictor of perioperative mortality but is not formally incorporated in the American Society of Anesthesiologists (ASA) classification. Our primary objective was to assess whether functional capacity is an independent predictor of 30-day and long-term mortality in a general population and, if so, to define how it may formally be incorporated into the routine preoperative ASA classification assessment. METHODS: This retrospective, observational cohort study was conducted using 1998 to 2009 data extracted from the Veterans Affairs Surgical Quality Improvement Program of Western New York, a perioperative prospectively maintained database. Mortality follow-up was performed for all records in 2013. This population-based sample included all patients undergoing any noncardiac surgery (n = 12,324). Each patient’s ASA class (assigned preoperatively) was appended with subclasses A or B, with A representing patients who were functionally independent and B representing partially or fully dependent patients. The primary outcome was all-cause mortality during the follow-up period. Secondary outcomes included 30-day postoperative complications and mortality. Multivariate logistic regression was used to identify independent risk factors for mortality. RESULTS: The likelihood for mortality was significantly lower for A patients than B patients within each ASA class. The odds ratios for mortality for group A patients significantly favored survival over group B within each ASA class (0.14, 0.29, and 0.50, for ASA class II, III, and IV, respectively, each P < 0.0001). The odds ratio for mortality of IIB over IIIA patients was 1.92 (95",
+    "author": [
+      {
+        "family": "Visnjevac",
+        "given": "Ognjen"
+      },
+      {
+        "family": "Davari-Farid",
+        "given": "Sina"
+      },
+      {
+        "family": "Lee",
+        "given": "Jun"
+      },
+      {
+        "family": "Pourafkari",
+        "given": "Leili"
+      },
+      {
+        "family": "Arora",
+        "given": "Pradeep"
+      },
+      {
+        "family": "Dosluoglu",
+        "given": "Hasan H."
+      },
+      {
+        "family": "Nader",
+        "given": "Nader D."
+      }
+    ],
+    "container-title": "Anesthesia and Analgesia",
+    "id": "Visnjevac2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "110-116",
+    "title": "The effect of adding functional classification to ASA status for predicting 30-day mortality",
+    "type": "article-journal",
+    "volume": "121"
+  },
+  {
+    "DOI": "10.19224/ai2017.349",
+    "ISBN": "0005298393",
+    "ISSN": "14390256",
+    "PMID": "20981398",
+    "URL": "https://www.bda.de/docman/alle-dokumente-fuer-suchindex/oeffentlich/empfehlungen/1524-praeoperative-evaluation-erwachsener-patienten-vor-elektiven-nicht-kardiochirurgischen-eingriffen-1/file.html http://www.thieme-connect.de/DOI/DOI?10.1055/s-0043-111784",
+    "abstract": "Die präoperative Anamnese und körperliche Untersuchung sind anerkannter Standard bei der Risikoevaluation von Patienten vor elektiven chirurgischen Eingriffen. Ob und unter welchen Umständen technische Voruntersuchungen dazu beitragen können, das perioperative Risiko zu reduzieren, ist bislang nur unzureichend untersucht. Auch besteht unter Anästhesisten, Chirurgen und Internisten vielfach Unsicherheit im perioperativen Umgang mit der Dauermedikation. Die deutschen wissenschaftlichen Fachgesellschaften für Anästhesiologie und Intensivmedizin (DGAI), Chirurgie (DGCH) und Innere Medizin (DGIM) haben daher eine gemeinsame Empfehlung zur präoperativen Evaluation erwachsener Patienten vor elektiven, nicht herz-thoraxchirurgischen Eingriffen erarbeitet und erstmals im Jahr 2010 publiziert. Die vorliegende Fassung ist eine Überarbeitung der Stellungnahme von 2010 unter Einbeziehung der seither publizierten Literatur sowie von aktuellen Leitlinien internationaler Fachgesellschaften. Zunächst werden die allgemeinen Prinzipien der präoperativen Evaluation dargestellt (Teil A). Das Vorgehen bei Patienten mit bekannten oder vermuteten kardiovaskulären Vorerkrankungen wird gesondert betrachtet (Teil B: „Erweiterte kardiale Diagnostik“). Abschließend wird der perioperative Umgang mit der Dauermedikation diskutiert (Teil C). Die vorgestellten Konzepte stellen fachübergreifende Empfehlungen dar, die ein strukturiertes und gemeinsames Vorgehen ermöglichen sollen. Ihr Ziel ist es, durch transparente und verbindliche Absprachen eine hohe Patientenorientierung unter Vermeidung unnötiger Voruntersuchungen zu gewährleisten, präoperative Untersuchungsabläufe zu verkürzen sowie letztlich Kosten zu reduzieren. Die gemeinsamen Empfehlungen von DGAI, DGCH und DGIM spiegeln den gegenwärtigen Kenntnisstand, aber auch die Meinungen von Experten wider, da nicht für jede Fragestellung wissenschaftliche Evidenz besteht. Daher werden eine regelmäßige Überprüfung und Aktualisierung der Empfehlungen erfolgen, sobald gesicherte neue Erkenntnisse vorliegen.",
+    "author": [
+      {
+        "family": "Zwissler",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "Anasthesiologie und Intensivmedizin",
+    "id": "Zwissler2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "keyword": "Interdisciplinary recommendation,Perioperative risk - cardiac risk,Preoperative evaluation,Pulmonary risk",
+    "page": "349-364",
+    "publisher": "DIOmed Verlags GmbH",
+    "title": "Präoperative evaluation erwachsener patienten vor elektiven, nicht herz-thoraxchirurgischen eingriffen",
+    "type": "article-journal",
+    "volume": "58"
+  },
+  {
+    "DOI": "10.1016/J.BPA.2020.12.005",
+    "ISSN": "1878-1608",
+    "PMID": "33742572",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/33742572/",
+    "abstract": "Preoperative risk evaluation scores are used prior to surgery to predict perioperative risks. They are also a useful tool to help clinicians communicate the risk–benefit balance of the procedure to patients. This review identifies and assesses the existing preoperative risk evaluation scores (also called prediction scores) of postoperative mortality in all types of surgery (emergency or scheduled) in an adult population. We systematically identified studies using the MEDLINE, Ovid EMBASE and Cochrane databases and published studies reporting the development and validation of preoperative predictive scores of postoperative mortality. We assessed usability, the level of evidence of the studies performed for external validation, and the predictive accuracy of the scores identified. We found 26 scores described within 60 different reports. The most suitable scores with the highest validity identified for anaesthesia practice were the Preoperative Score to Predict Postoperative Mortality (POSPOM), the Universal ACS NSQIP surgical risk calculator (ACS-NSQUIP), the Clinical Frailty Scale (CFS) and the American Society of Anesthesiologists Physical Status (ASA-PS) classification system. While other scores identified in this review could also be endorsed, their level of validity and generalizability to the general surgical population should be carefully considered.",
+    "author": [
+      {
+        "family": "Kivrak",
+        "given": "Selin"
+      },
+      {
+        "family": "Haller",
+        "given": "Guy"
+      }
+    ],
+    "container-title": "Best practice & research. Clinical anaesthesiology",
+    "id": "Kivrak2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "keyword": "Anesthesia Recovery Period*,Guy Haller,Humans,MEDLINE,Mortality / trends,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Postoperative Complications / diagnosis*,Postoperative Complications / mortality*,Postoperative Complications / prevention & control,Preoperative Care / methods,Preoperative Care / standards*,PubMed Abstract,Review,Risk Assessment / methods,Risk Assessment / standards,Risk Factors,Selin Kivrak,doi:10.1016/j.bpa.2020.12.005,pmid:33742572",
+    "page": "115-134",
+    "publisher": "Best Pract Res Clin Anaesthesiol",
+    "title": "Scores for preoperative risk evaluation of postoperative mortality",
+    "type": "article-journal",
+    "volume": "35"
+  }
+]

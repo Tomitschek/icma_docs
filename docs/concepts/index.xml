@@ -1,0 +1,164 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[ICMa&#43;&#43;] – Konzepte</title>
+    <link>https://tomitschek.github.io/icma_docs/docs/concepts/</link>
+    <description>Recent content in Konzepte on [ICMa&#43;&#43;]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	  <atom:link href="https://tomitschek.github.io/icma_docs/docs/concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Prämedikations Konzept</title>
+      <link>https://tomitschek.github.io/icma_docs/docs/concepts/pm-konzept/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomitschek.github.io/icma_docs/docs/concepts/pm-konzept/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;Technisch keine Verbindung zu ORBIS (Stand 5/2023)&lt;/li&gt;
+&lt;li&gt;Zuordnung über OP-Diagnose/OP-Beschreibung/OP-Datum&lt;/li&gt;
+&lt;li&gt;Aber: kann sich alles ändern&lt;/li&gt;
+&lt;li&gt;PM für Fälle ohne ORBIS bzw. ORBIS-OP-Anmeldung (Aussen/ KiSto)&lt;/li&gt;
+&lt;li&gt;Dokument muss Aussage für sich haben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;aufnahme&#34;&gt;Aufnahme&lt;/h1&gt;
+&lt;p&gt;Am besten über Fallnummer (64xxxxxxxx)&lt;/p&gt;
+&lt;h2 id=&#34;stammdaten-dialog&#34;&gt;Stammdaten-Dialog&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Körpergröße&lt;/li&gt;
+&lt;li&gt;Gewicht&lt;/li&gt;
+&lt;li&gt;OP-Diagnose&lt;/li&gt;
+&lt;li&gt;Ggf. hier schon Allergien&lt;/li&gt;
+&lt;li&gt;PM-Ordner&lt;/li&gt;
+&lt;li&gt;OP-Zuordnung&lt;/li&gt;
+&lt;li&gt;Datum&lt;/li&gt;
+&lt;li&gt;OP-Beschreibung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reiter&#34;&gt;Reiter&lt;/h2&gt;
+&lt;h3 id=&#34;anmeldung&#34;&gt;Anmeldung&lt;/h3&gt;
+&lt;p&gt;OP-Planung laut ORBIS&lt;/p&gt;
+&lt;p&gt;Items&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dauer optimal&lt;/li&gt;
+&lt;li&gt;Dringlichkeit&lt;/li&gt;
+&lt;li&gt;Sauberkeitsgrad&lt;/li&gt;
+&lt;li&gt;Lagerung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Warum?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keine Zuordnung OP-Anmeldung – PM wegen mangelnder Interoperabilität&lt;/li&gt;
+&lt;li&gt;PM Doku = Stand der Informationen zum Zeitpunkt der PM; OP-Anmeldungen können sich nach Abschluss der PM beliebig oft ändern; So bleibt ersichtlich welche Informationen der PM-Verantwortliche hatte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;soziales&#34;&gt;Soziales&lt;/h3&gt;
+&lt;p&gt;Items&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anamnese&lt;/li&gt;
+&lt;li&gt;Sprachbarriere&lt;/li&gt;
+&lt;li&gt;Versorgungssituation&lt;/li&gt;
+&lt;li&gt;Mobilität&lt;/li&gt;
+&lt;li&gt;Betreuung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Warum?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anamnese, Sprachbarriere, Betreuung: Logistik&lt;/li&gt;
+&lt;li&gt;Versorgungssituation, Mobilität: Verbesserung der Vorhersagequalität von ASA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;infektiologie&#34;&gt;Infektiologie&lt;/h3&gt;
+&lt;p&gt;Items&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Isolierung&lt;/li&gt;
+&lt;li&gt;Infektionen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Warum?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Isolierung! Selbstredend; Logistische Implikationen. Wichtig bei PM aktuellen Status erfragen, da oft nicht aktuelle CAVE-Einträge im ORBIS&lt;/li&gt;
+&lt;li&gt;Infektion: chron. Infektionskrankheiten, die besondere Vorkehrungen/Vorsicht implizieren HepC/HIV, aber nicht zwingend eine Isolierung erfordern.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;schwangerschaft&#34;&gt;Schwangerschaft&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Schwangerschaft: klar oder?&lt;/li&gt;
+&lt;li&gt;Stillen dito&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;anforderung-seitens-operateurs&#34;&gt;Anforderung seitens Operateurs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rückfallebene für Anmeldungen ohne Orbis&lt;/li&gt;
+&lt;li&gt;Alle Absprachen mit den Operierenden sollten im PM-Dokument beschrieben sein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Items&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vorgeschlagenes Anästhesieverfahren&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AB-Prophylaxe&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blutverlust&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OP-Risiko&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wichtig u. a. für Evaluation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Besonderheiten/Procedere&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Von Chir. gewünschter PostOP Schmerzdienst&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Von Chir. Gewünschte postoperative Überwachung&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;anmeldungs-qm&#34;&gt;Anmeldungs-QM&lt;/h3&gt;
+&lt;p&gt;Experimentelles Feature für Evaluation des PM-Ablaufs/Kommunikation mit den Fachbereichen&lt;/p&gt;
+&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;
+&lt;p&gt;Bemerkung: strukturierte körperliche Untersuchung gab es bisher nicht. Generell soll aber eine den Umständen angemessene körperliche Untersuchung stattfinden: es müssen nicht alle Feder ausgefüllt werden. Aber was nicht dokumentiert ist, gilt als nicht durchgeführt (auch bei vermeintlichem Normalbefund)&lt;/p&gt;
+&lt;h3 id=&#34;spalte-1weiß&#34;&gt;Spalte 1(weiß)&lt;/h3&gt;
+&lt;p&gt;Kurzanamnese zu ANE relevanten Bereichen.&lt;/p&gt;
+&lt;p&gt;Items&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keine Vor OP&lt;/li&gt;
+&lt;li&gt;Vornarkosen; gerne auch Freitext&lt;/li&gt;
+&lt;li&gt;ANE-Komplikationen&lt;/li&gt;
+&lt;li&gt;Nausea/PONV (explizit)&lt;/li&gt;
+&lt;li&gt;OP-Komplikationen&lt;/li&gt;
+&lt;li&gt;Medikation keine&lt;/li&gt;
+&lt;li&gt;Alkohol&lt;/li&gt;
+&lt;li&gt;Raucherstatus unter B&lt;/li&gt;
+&lt;li&gt;Drogen&lt;/li&gt;
+&lt;li&gt;Implantate
+&lt;ul&gt;
+&lt;li&gt;Implantierte Herz/Kreislauf Geräte (HSM/AICD/Klappen) -&amp;gt; Herz&lt;/li&gt;
+&lt;li&gt;Gelenk Prothesen -&amp;gt; Bewegungsapparat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;untersuchung&#34;&gt;Untersuchung&lt;/h3&gt;
+&lt;p&gt;Körperliche Untersuchung: nur ausfüllen, was tatsächlich untersucht wurde.&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;CAVE!&lt;/h4&gt;
+
+    Was nicht dokumentiert wurde gilt als nicht durchgeführt; auch bei Normalbefunden
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
