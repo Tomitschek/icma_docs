@@ -29,6 +29,6 @@ description: >
 {{< /alert >}}
 
 {{% pageinfo %}}
-am Ende ausschließliche Dokumentation im ICMa in allen OP-Sälen, Aufwachräumen und Prämed.
+am Ende ausschließliche Dokumentation im ICMa in allen OP-Sälen, Aufwachräumen und Prämed (PM).
 
 {{% /pageinfo %}}
